@@ -8,8 +8,8 @@ To cache data in redis all we need to do is chain cache(hashKey) method to mongo
 This causes redis caching of data for 10 sec.
 To flush cache we need to add cleanCache function to route handler middleware.
 
-#Usage
+# Usage
 To start development run
 npm start dev
 
-#Testing
+# Testing
