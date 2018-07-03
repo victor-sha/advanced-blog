@@ -13,3 +13,4 @@ To start development run
 npm start dev
 
 # Testing
+npm start test
