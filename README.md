@@ -14,3 +14,5 @@ npm start dev
 
 # Testing
 npm start test
+# CI
+Travis is used for ci tests
