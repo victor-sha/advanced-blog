@@ -14,5 +14,11 @@ npm start dev
 
 # Testing
 npm start test
+![diagrams/test_flow](./diagrams/test_flow.png)
+
 # CI
 Travis is used for ci tests
+
+# Files Upload
+![diagrams/file-upload-flow](./diagrams/file-upload-flow.png)
+![diagrams/aws-getSignedUrl](./diagrams/aws-getSignedUrl.png)
